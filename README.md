@@ -1,6 +1,6 @@
 # 📦 Zepto Inventory Dashboard — Power BI Project
 
-![Dashboard Preview](Zepto Dashboard.png)
+<img src="Zepto Dashboard.png" alt="Zepto Inventory Dashboard" width="800"/>
 
 ---
 
