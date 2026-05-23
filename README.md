@@ -1,6 +1,6 @@
 # 📦 Zepto Inventory Dashboard — Power BI Project
 
-![Dashboard Preview](Zepto_Dashboard.png)
+![Dashboard Preview](Zepto Dashboard.png)
 
 ---
 
